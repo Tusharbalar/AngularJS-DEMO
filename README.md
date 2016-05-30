@@ -1,2 +1,2 @@
 # AngularJS-DEMO
-Project structure for pp
+Project structure for app
